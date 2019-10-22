@@ -317,7 +317,7 @@
 |  GRID |   | css | | |
 |  GRID-AREA |   | css | | |
 |  GRID-AREAS |   | css | | |
-|  GRID-COLUMN |   | css | | |
+|  GRID-COLUMN | The grid-column property specifies a grid item's size and location in a grid layout  | css | | |
 |  GRID-COLUMNS |   | css | | |
 |  GRID-END |   | css | | |
 |  GRID-FLOW |   | css | | |
