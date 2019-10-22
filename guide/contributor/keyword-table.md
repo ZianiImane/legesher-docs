@@ -2,7 +2,7 @@
 
 | Keyword        | Definition     | Languages      | Category       | Notes          |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
-| _ (underscore) |   | | | |
+| _ (underscore) |  | java, C, C++, Python| | |
 |  A |   | html | | |
 |  ABBR |   | html | | |
 |  ABSTRACT |   | c#, julia, rust, scala, agda, php, java | | |
