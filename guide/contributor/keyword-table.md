@@ -2,7 +2,7 @@
 
 | Keyword        | Definition     | Languages      | Category       | Notes          |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
-| _ (underscore) |  | java, C, C++, Python| | |
+| _ (underscore) |  | java, c, c++, python| | |
 |  A |   | html | | |
 |  ABBR |   | html | | |
 |  ABSTRACT |   | c#, julia, rust, scala, agda, php, java | | |
@@ -508,10 +508,10 @@
 |  OVERRIDE | | c#, swift, rust, scala, c++ | | |
 |  P | | html | | |
 |  PACKAGE | | javascript, golang, scala, typescript, java | | |
-|  PADDING | | css | | |
+|  PADDING | An element's padding is the space between its content and its border. | css | Property | |
 |  PADDING-BOTTOM | | css | | |
 |  PADDING-LEFT | | css | | |
-|  PADDING-RIGHT | | css | | |
+|  PADDING-RIGHT | The padding-right property sets the right padding (space) of an element. | css | | |
 |  PADDING-TOP | | css | | |
 |  PAGE | | razor | | |
 |  PAGE-AFTER | | css | | |
