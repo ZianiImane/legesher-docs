@@ -508,7 +508,7 @@
 |  OVERRIDE | | c#, swift, rust, scala, c++ | | |
 |  P | | html | | |
 |  PACKAGE | | javascript, golang, scala, typescript, java | | |
-|  PADDING | | css | | |
+|  PADDING | | css | | An element's padding is the space between its content and its border. |
 |  PADDING-BOTTOM | | css | | |
 |  PADDING-LEFT | | css | | |
 |  PADDING-RIGHT | | css | | |
