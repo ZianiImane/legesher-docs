@@ -2,7 +2,7 @@
 
 | Keyword        | Definition     | Languages      | Category       | Notes          |
 | :------------- | :------------- | :------------- | :------------- | :------------- |
-| _ (underscore) |   | | | |
+| _ (underscore) |  | java, C, C++, Python| | |
 |  A |   | html | | |
 |  ABBR |   | html | | |
 |  ABSTRACT |   | c#, julia, rust, scala, agda, php, java | | |
@@ -221,7 +221,7 @@
 |  END |   | julia, verilog, ocaml, ruby | | |
 |  ENDCASE |   | verilog | | |
 |  ENDDECLARE |   | php | | |
-|  ENDFOR |   | php | | |
+|  ENDFOR |   | php | Loops | End of a loop|
 |  ENDFOREACH |   | php | | |
 |  ENDFUNCTION |   | verilog | | |
 |  ENDIF |   | php | | |
