@@ -401,7 +401,7 @@
 |  LI |   | html | | |
 |  LINE |   | | | |
 |  LINE-BREAK |   | css | | |
-|  LINE-HEIGHT |   | css | | |
+|  LINE-HEIGHT | The line-height property specifies the height of a line.  | css | | |
 |  LINK |   | html | | |
 |  LIST |   | php, python | | |
 |  LIST-IMAGE |   | css | | |
