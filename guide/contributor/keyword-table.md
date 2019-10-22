@@ -315,7 +315,7 @@
 |  GO |   | golang | | |
 |  GOTO | An unconditional jump to a given statement  | c#, java, golang, c, php, c++ | Loops | |
 |  GRID |   | css | | |
-|  GRID-AREA |   | css | | |
+|  GRID-AREA | The grid-area property specifies a grid item's size and location in a grid layout  | css | | |
 |  GRID-AREAS |   | css | | |
 |  GRID-COLUMN |   | css | | |
 |  GRID-COLUMNS |   | css | | |
