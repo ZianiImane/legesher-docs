@@ -221,7 +221,7 @@
 |  END |   | julia, verilog, ocaml, ruby | | |
 |  ENDCASE |   | verilog | | |
 |  ENDDECLARE |   | php | | |
-|  ENDFOR |   | php | Loops | End of a loop|
+|  ENDFOR |   | php | Loops | End of a for loop|
 |  ENDFOREACH |   | php | | |
 |  ENDFUNCTION |   | verilog | | |
 |  ENDIF |   | php | | |
